@@ -23,6 +23,6 @@ I am an AI & ML student based in Pune, India, focused on building practical tech
 ---
 
 ###  Learning & Building Roadmap
-- [ ] Upload my personal portfolio website source code (`HTML/CSS/JS`)
+- [x] Upload my personal portfolio website source code (`HTML/CSS/JS`)
 - [ ] Publish my first end-to-end Python Machine Learning project with clean documentation
 - [ ] Document my ESP32 / Drone hardware-software integration work
