@@ -7,7 +7,7 @@ I am an AI & ML student based in Pune, India, focused on building practical tech
 -  **Currently exploring:** Machine Learning fundamentals, Python development, and ESP32/drone embedded integrations
 -  **Career Goal:** Building end-to-end AI/ML and Edge-AI systems for global engineering teams
 -  **Portfolio:** [guileless-phoenix-f4aad4.netlify.app](https://guileless-phoenix-f4aad4.netlify.app)
--  **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+-  **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/amod-rawtoo)
 -  **Email:** amodrawtoo@gmail.com
 
 ---
